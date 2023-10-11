@@ -1,0 +1,81 @@
+.app-div {
+    margin-right: 40%;
+    margin-left: 40%;
+    border: none;
+    border-radius: 15px;
+    overflow:hidden;
+}
+
+.btn2 {
+    padding-bottom: 6.8px;
+}
+
+.input {
+    text-align: right;
+    resize: none;
+    caret-color: transparent;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.btn-color-dark {
+    background-color: #08233a;
+    color: white;
+}
+
+.btn-color-dark:hover {
+    background-color: #b4c0cb1b;
+    color: white;
+}
+
+.btn-color-light {
+    background-color: #E4E6EB;
+    color: black;
+}
+
+.btn-color-light:hover {
+    background-color: #64656882;
+    color: black;
+}
+
+.textarea-dark {
+    background-color: #08233a;
+    color: white;
+}
+
+.textarea-light {
+    background-color: #E4E6EB;
+    color: black;
+}
+
+#calc-btn-dark {
+    background-color: #18191A;
+    color: white;
+    border:none;
+}
+
+#calc-btn-dark:hover {
+    color: #fff;
+    background-color: #2e3238;
+}
+
+#calc-btn-light {
+    background-color: #bbbcc0;
+    color: black;
+    border:none;
+}
+
+#calc-btn-light:hover {
+    background-color: #98989b;
+    color: black;
+}
+
+.upper-bg-dark {
+    background-color: #08233a;
+}
+
+.upper-bg-light {
+    background-color: #E4E6EB;
+}
